@@ -30,4 +30,4 @@ python nome_do_arquivo.py
 
 ## 🎓 Disciplina
 
- Sistemas Operacionais– Fatec Zona Leste
+ Sistemas Operacionais – Fatec Zona Leste
